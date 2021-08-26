@@ -4,7 +4,7 @@ public class PersonAndCustomerExample {
 
         cust.setCustomerNumber(1234);
         cust.setName("Jane Doe");
-        cust.setAddress("5555 Test St, Eldersburg, MD 21784");
+        cust.setAddress("5555 Test St, Smalltown, MD 21784");
         cust.setPhone("(410)555-1212");
         cust.setMailingList(true);
 
